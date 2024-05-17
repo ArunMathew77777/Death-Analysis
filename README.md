@@ -1,1 +1,3 @@
 # Analysis-of-death-by-selected-causes-from-2014-to-2019
+
+The dataset contains information on mortality in the United States for the years 2014 to 2019, broken down by month. The data includes the number of deaths for various causes, such as natural causes, specific diseases (e.g., septicemia, malignant neoplasms, diabetes mellitus, Alzheimer's disease, etc.), and external factors like accidents, suicides, and drug overdoses. Researchers can use this dataset to analyze mortality trends, identify potential public health issues, and explore the impact of various factors on the causes of death in the United States.
